@@ -1,6 +1,6 @@
 # Welcome to my profile!
 ### About me:
-
+studiying Applied Computer Science @ Ruhr-University Bochum
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitel8p)](https://github.com/infinitel8p)
 [![infinitel8p's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitel8p&show_icons=true)](https://github.com/infinitel8p)  
