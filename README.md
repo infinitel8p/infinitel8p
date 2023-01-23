@@ -13,3 +13,10 @@
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 </div>
+
+Some projects:
+https://github.com/infinitel8p/PokeDex
+https://github.com/infinitel8p/Topspot
+https://github.com/infinitel8p/proxy-settings
+https://github.com/infinitel8p/weather-forecast
+https://github.com/infinitel8p/youtube-dl
