@@ -2,8 +2,11 @@
 ### About me:
 studiying Applied Computer Science @ Ruhr-University Bochum
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitel8p)](https://github.com/infinitel8p)
-[![infinitel8p's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitel8p&show_icons=true)](https://github.com/infinitel8p)  
+![](https://raw.githubusercontent.com/infinitel8p/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/infinitel8p/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/infinitel8p/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/infinitel8p/github-stats/master/generated/languages.svg#gh-light-mode-only) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=PokeDex&show_owner=true)](https://github.com/infinitel8p/PokeDex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Topspot&show_owner=true)](https://github.com/infinitel8p/Topspot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=proxy-settings&show_owner=true)](https://github.com/infinitel8p/proxy-settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=weather-forecast&show_owner=true)](https://github.com/infinitel8p/weather-forecast)
