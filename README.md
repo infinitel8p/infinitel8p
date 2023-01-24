@@ -12,6 +12,9 @@
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
 <h3>Some projects:</h3><br>
 <a href="https://github.com/infinitel8p/PokeDex"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=PokeDex&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="PokeDex"></a>
 <a href="https://github.com/infinitel8p/Topspot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Topspot&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="Topspot"></a>
