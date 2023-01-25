@@ -5,8 +5,9 @@
 🧑🏼‍🎓<b>studiying</b> Applied Computer Science @ Ruhr-University Bochum<br><br>
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-  
 <br>
+<br>
+  
 <!--START_SECTION:waka-->
 
 ```text
@@ -22,7 +23,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<br>
+
 
 ---
 <!--START_SECTION:projects-->
