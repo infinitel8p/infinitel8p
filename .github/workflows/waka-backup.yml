@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SECTION_NAME: waka0
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
