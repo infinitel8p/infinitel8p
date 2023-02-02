@@ -42,10 +42,6 @@ Other        30 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -94,7 +90,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 02/02/2023 11:00:10 UTC
+ Last Updated on 02/02/2023 13:04:58 UTC
 <!--END_SECTION:waka-->
 
 
