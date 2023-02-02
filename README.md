@@ -7,7 +7,22 @@
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <br>
 <br>
+
+---
+
+<!--START_SECTION:projects-->
+<h3>Some projects:</h3><br>
+<a href="https://github.com/infinitel8p/PokeDex"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=PokeDex&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="PokeDex"></a>
+<a href="https://github.com/infinitel8p/Topspot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Topspot&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="Topspot"></a>
+<a href="https://github.com/infinitel8p/weather-forecast"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=weather-forecast&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="weather-forecast"></a>
+<a href="https://github.com/infinitel8p/proxy-settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=proxy-settings&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="proxy-settings"></a>
+<a href="https://github.com/infinitel8p/youtube-dl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=youtube-dl&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="youtube-dl"></a>
+<br>
+<br>
   
+---
+<br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2047%20mins-blue)
 
@@ -63,18 +78,11 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 02/02/2023 10:26:14 UTC
 <!--END_SECTION:waka-->
-  
----
-<!--START_SECTION:projects-->
-<h3>Some projects:</h3><br>
-<a href="https://github.com/infinitel8p/PokeDex"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=PokeDex&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="PokeDex"></a>
-<a href="https://github.com/infinitel8p/Topspot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Topspot&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="Topspot"></a>
-<a href="https://github.com/infinitel8p/weather-forecast"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=weather-forecast&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="weather-forecast"></a>
-<a href="https://github.com/infinitel8p/proxy-settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=proxy-settings&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="proxy-settings"></a>
-<a href="https://github.com/infinitel8p/youtube-dl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=youtube-dl&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="youtube-dl"></a>
-<br>
-  
+
+
+<!--
  ---
 <img width="75" src="https://komarev.com/ghpvc/?username=infinitel8p&color=blueviolet&style=flat-square">
+-->
 </div>
 
