@@ -3,7 +3,7 @@ name: Waka Readme Backup
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '30 18 * * *' # Runs at 12am IST
+    - cron: '30 06 * * *' # Runs at 12am IST
 
 jobs:
   update-readme:
@@ -20,5 +20,5 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
-          LANGUAGE_COUNT: 10
+          #LANGUAGE_COUNT: 10
 
