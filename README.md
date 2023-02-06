@@ -22,7 +22,6 @@
   
 ---
 <h3>Stats:</h3><br>
-</div>
 <!--START_SECTION:waka0-->
 
 ```text
