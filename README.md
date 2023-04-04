@@ -7,7 +7,23 @@
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <br>
 <br>
-
+<div align="center" id="languages">  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg" alt="python" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" alt="java" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" alt="javascript" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg" alt="html" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg" alt="css" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/json.svg" alt="json" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/docker.svg" alt="docker" height="50" /></a>  
+</div>
+<div align="center" id="other">  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="vscode" height="40" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/intellij.svg" alt="intellij" height="40" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" alt="github" height="40" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/gitlab.svg" alt="gitlab" height="40" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg" alt="git" height="40" /></a>  
+</div>
+  
 ---
 
 <!--START_SECTION:projects-->
@@ -19,7 +35,6 @@
 <a href="https://github.com/infinitel8p/youtube-dl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=youtube-dl&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="youtube-dl"></a>
 <br>
 <br>
-  
 ---
 <h3>Stats:</h3><br>
 <!--START_SECTION:waka0-->
