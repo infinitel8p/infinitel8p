@@ -9,19 +9,29 @@
 <br>
 <div align="center" id="languages">  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg" alt="python" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" alt="java" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" alt="javascript" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg" alt="html" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg" alt="css" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/json.svg" alt="json" height="50" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/docker.svg" alt="docker" height="50" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" alt="javascript" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/json.svg" alt="json" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="docker" height="70" /></a>  
 </div>
 <div align="center" id="other">  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="vscode" height="40" /></a>
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/intellij.svg" alt="intellij" height="40" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" alt="github" height="40" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/gitlab.svg" alt="gitlab" height="40" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg" alt="git" height="40" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="vscode" height="50" /></a>
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/intellij.svg" alt="intellij" height="50" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="github" height="50" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="50" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" height="50" /></a>  
+</div>
+  <div align="center" id="tools">  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg" alt="fastapi" height="35" /></a>
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" alt="putty" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" alt="qt" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" alt="selenium" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="35" /></a>  
 </div>
   
 ---
