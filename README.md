@@ -11,8 +11,9 @@
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg" alt="python" height="50" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" height="70" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" alt="javascript" height="70" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" height="70" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg" alt="html" height="70" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg" alt="css" height="70" /></a> 
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c.svg" alt="c" height="70" /></a> 
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/json.svg" alt="json" height="70" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="docker" height="70" /></a>  
 </div>
@@ -24,7 +25,7 @@
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="50" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" height="50" /></a>  
 </div>
-  <div align="center" id="tools">  
+<div align="center" id="tools">  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg" alt="fastapi" height="35" /></a>
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" height="35" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" height="35" /></a>  
