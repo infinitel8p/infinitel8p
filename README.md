@@ -19,6 +19,7 @@
 <div align="center" id="other">  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" alt="vscode" height="50" /></a>
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/intellij.svg" alt="intellij" height="50" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio" height="50" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="github" height="50" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="50" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" height="50" /></a>  
