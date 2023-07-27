@@ -62,9 +62,9 @@
 <!--START_SECTION:waka0-->
 
 ```txt
-From: 23 January 2023 - To: 24 July 2023
+From: 23 January 2023 - To: 25 July 2023
 
-Total Time: 466 hrs 8 mins
+Total Time: 466 hrs 9 mins
 
 Python           124 hrs 18 mins ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.67 %
 unity            85 hrs 52 mins  ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.42 %
