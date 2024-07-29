@@ -33,6 +33,9 @@
 </div><br>
 <div align="center" id="tools">  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" alt="astro" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="35" /></a>  
+<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="nextjs" height="35" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg" alt="vue" height="35" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg" alt="fastapi" height="35" /></a>
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" height="35" /></a>  
@@ -43,7 +46,6 @@
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" height="35" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" alt="selenium" height="35" /></a>  
 <a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="35" /></a>  
-<a href="https://github.com/infinitel8p" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="nextjs" height="35" /></a>  
 </div>
 
 ---
