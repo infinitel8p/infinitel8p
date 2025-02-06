@@ -57,7 +57,8 @@
 <a href="https://github.com/infinitel8p/proxy-settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=proxy-settings&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="proxy-settings"></a>
 <a href="https://github.com/infinitel8p/youtube-dl"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=youtube-dl&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="youtube-dl"></a>
 <a href="https://github.com/infinitel8p/Security-Cam"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Security-Cam&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="Security-Cam"></a>
-<a href="https://github.com/infinitel8p/SmurfTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=SmurfTracker&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="BirdCam"></a>
+<a href="https://github.com/infinitel8p/SmurfTracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=SmurfTracker&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="SmurfTracker"></a>
+<a href="https://github.com/infinitel8p/Reinforcement-Learning-Flappy-Bird"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=infinitel8p&repo=Reinforcement-Learning-Flappy-Bird&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=e7e7e8&show_icons=true" alt="Reinforcement-Learning-Flappy-Bird"></a>
 <br>
 <br>
   
