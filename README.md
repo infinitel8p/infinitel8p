@@ -2,7 +2,7 @@
 <div align="center">
 <h1>Hi there, im Ludo👋<br> Welcome to my profile!</h1>
 <h3>About me:</h3>  
-🧑🏼‍🎓<b>studiying</b> Applied Computer Science @ Ruhr-University Bochum<br><br>
+🧑🏼‍🎓<b>studiying</b> Computer Science in Bochum<br><br>
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/infinitel8p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <br>
